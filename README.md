@@ -1,4 +1,4 @@
-# 2D RPG made with GODOT Engine
+# 2D RPG made with GODOT Engine - <strong>You can download it! It's available on Game.rar</strong>
 A 2D RPG game, made with Godot game Engine, while I was learning how to use it
 
 I'm a lover of RPGs, and I aways wanted to create something, but... not using a tool like RPG maker or something easier, I know that I can create something, coding! and then I decided to learn GDScript
