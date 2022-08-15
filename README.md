@@ -15,3 +15,6 @@ I'm a lover of RPGs, and I aways wanted to create something, but... not using a 
 <img src ='DevLogs/attacking.png'>
 <p>Dying</p>
 <img src ='DevLogs/dead.png'>
+
+<h1>Enemy</h1>
+<img src='DevLogs/slimes.png'>
