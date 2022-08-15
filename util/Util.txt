@@ -1,0 +1,6 @@
+-Set 2D Pixel as default for texture!
+-Change window size -> Project - project settings - window - size
+(Múltiplos do tamanho dos sprites (tilesets))
+-Set TestWidth(3x window size);
+-StretchMode (Mode - 2d, aspect - keep);
+
